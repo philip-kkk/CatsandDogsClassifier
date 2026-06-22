@@ -1,3 +1,4 @@
+# CatsandDogsClassifier
 ---
 
 title: Cats and Dogs Classifier
@@ -5,8 +6,6 @@ sdk: gradio
 app_file: app.py
 python_version: "3.10"
 ----------------------
-
-# Cats and Dogs Classifier
 
 Cats and Dogs Classifier is a simple image classification web application that predicts whether an uploaded image is a cat or a dog.
 
